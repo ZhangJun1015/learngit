@@ -1,2 +1,4 @@
 My filename is git002.txt
-
+Add some lines
+01
+02
