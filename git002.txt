@@ -2,3 +2,6 @@ My filename is git002.txt
 Add some lines
 01
 02
+Add some lines without git add
+03
+04
